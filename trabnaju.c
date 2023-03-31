@@ -1,7 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h> // necessário para a função system()
+#include <stdlib.h> // necessario para a funcao system()
 
-int main() {
+int main(){
     int vmatricula[50], I = 0, J, matricula;
     float vnota1[50], vnota2[50];
     
